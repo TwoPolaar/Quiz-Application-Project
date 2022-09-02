@@ -1,6 +1,0 @@
-What type of animal is my pet?
-cat
-Is he cool?
-yes
-What is his eye colour?
-blue
