@@ -1,0 +1,12 @@
+What type of animal is my pet?
+cat
+Is he cool?
+yes
+What is his eye colour?
+blue
+How is doing?
+good
+What breed is he
+maine coon
+Is he the best cat in the world?
+yes
