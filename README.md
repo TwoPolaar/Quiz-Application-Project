@@ -4,7 +4,7 @@ This is my Quiz Application project done under the Circle.
 After running the code, you will be given two options. Playing a quiz, and creating a quiz
 
 Playing:
-If you want to play a quiz, then you must type in: 1
+If you want to play a quiz, then you must type in: 1.
 After doing so, you will need to enter the name of the quiz you want to do. 
 You may refer to the files in this repositary if you are not sure what to play.
 
@@ -15,7 +15,7 @@ Upon completion, you result will be given in the form of a percanage and fractio
 Press Enter key to return to the main options.
 
 Making:
-If you want to make a quiz, then you must type in: 2
+If you want to make a quiz, then you must type in: 2.
 A loop will then start, which will prompt you to enter the question and the answer to it. There must be at least 10 questions in your quiz.
 After completing ten questions, you may stop or continue making more questions until you are satisfied.
 
